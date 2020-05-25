@@ -1,4 +1,4 @@
-# FEUP - LCOM
+# FEUP - BDAD
 
 ## Bases de Dados
 
