@@ -11,7 +11,7 @@ Este repositório contém:
 
 ## Grades
 
-**BDAD final grade : **
+**BDAD final grade :**
 
 | | 1ª Entrega | 2ª Entrega | 3ª Entrega |  |
 | --- | --- | --- | --- | --- |
