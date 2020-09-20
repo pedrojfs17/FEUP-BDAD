@@ -11,8 +11,8 @@ Este repositório contém:
 
 ## Grades
 
-**BDAD final grade :**
+**BDAD final grade : 17**
 
-| | 1ª Entrega | 2ª Entrega | 3ª Entrega |  |
+| | 1ª Entrega | 2ª Entrega | 3ª Entrega | Exame |
 | --- | --- | --- | --- | --- |
-| **Nota** | 19.5| 17.4| -| -|
+| **Nota** | 19.5| 17.4| 18.8| 15.7|
